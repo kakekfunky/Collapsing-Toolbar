@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        app:cardElevation="5dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Lorem Ipsum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2"
+                android:textSize="24sp" />
+
+            <TextView
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue nulla, iaculis convallis diam vel, iaculis euismod quam. Proin non consequat felis, sed tempor arcu. Aliquam vel congue urna, sit amet rhoncus sem. In condimentum nec mi vel bibendum."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        app:cardElevation="5dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Lorem Ipsum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2"
+                android:textSize="24sp" />
+
+            <TextView
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue nulla, iaculis convallis diam vel, iaculis euismod quam. Proin non consequat felis, sed tempor arcu. Aliquam vel congue urna, sit amet rhoncus sem. In condimentum nec mi vel bibendum."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        app:cardElevation="5dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Lorem Ipsum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2"
+                android:textSize="24sp" />
+
+            <TextView
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue nulla, iaculis convallis diam vel, iaculis euismod quam. Proin non consequat felis, sed tempor arcu. Aliquam vel congue urna, sit amet rhoncus sem. In condimentum nec mi vel bibendum."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        app:cardElevation="5dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Lorem Ipsum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2"
+                android:textSize="24sp" />
+
+            <TextView
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue nulla, iaculis convallis diam vel, iaculis euismod quam. Proin non consequat felis, sed tempor arcu. Aliquam vel congue urna, sit amet rhoncus sem. In condimentum nec mi vel bibendum."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        app:cardElevation="5dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Lorem Ipsum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2"
+                android:textSize="24sp" />
+
+            <TextView
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue nulla, iaculis convallis diam vel, iaculis euismod quam. Proin non consequat felis, sed tempor arcu. Aliquam vel congue urna, sit amet rhoncus sem. In condimentum nec mi vel bibendum."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>
